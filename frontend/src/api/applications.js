@@ -1,6 +1,6 @@
 const BASE_URL =
   import.meta.env.VITE_API_BASE_URL ||
-  "https://jobbuddy-d4878ee60bba.herokuapp.com/";
+  "https://jobbuddy-d4878ee60bba.herokuapp.com";
 
 const APPLICATIONS_PATH = "/api/applications";
 
